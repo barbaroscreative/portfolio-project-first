@@ -17,6 +17,7 @@ const TestimonialsCarousel = () => {
         autoplay={true}
         interval={3000}
         useKeyboardArrows={true}
+        
         >
             <>
                 <img src={avatar1} alt="Barbaros Ozturk 1" />
